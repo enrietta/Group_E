@@ -1,0 +1,46 @@
+
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.heading{
+    font-weight: bold;
+    color: rgb(21, 45, 90);
+}
+button{
+    background-color:white;
+    text-decoration-color: black;
+}
+.p0{
+    color: rgb(21, 45, 90);
+    font-weight: lighter;
+}
+.intro{
+    font-size: medium;
+    color: rgb(148, 157, 174);
+}
+.p1{
+    font-size: x-large;
+    color: rgb(21, 45, 90);
+}
+.button{
+    background-color: rgb(20, 20, 173);
+    text-decoration-color: black;
+    font-size: small;
+    
+}
+button:hover{
+    text-transform:capitalize;
+    cursor: pointer;
+}
+
+.logo{
+    font-family: 'Itim', cursive;
+}
+.figure{
+
+    font: size 10px;
+    color: rgb(44, 44, 168);
+    font-weight: 600;
+}
